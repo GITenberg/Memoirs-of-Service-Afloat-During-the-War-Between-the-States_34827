@@ -1,0 +1,35 @@
+_repo: Memoirs-of-Service-Afloat-During-the-War-Between-the-States_34827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Semmes, Raphael
+    birthdate: 1809
+    deathdate: 1877
+    gutenberg_agent_id: '4940'
+    url: http://www.gutenberg.org/2009/agents/4940
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Semmes
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34827'
+  lccn: '03015611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admirals -- Confederate States of America -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Confederate States of America. Navy -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations, Confederate'
+- !lcc 'E456'
+- !lcsh 'Semmes, Raphael, 1809-1877'
+- !lcsh 'Alabama (Screw sloop)'
+title: Memoirs of Service Afloat, During the War Between the States
+url: http://www.gutenberg.org/ebooks/34827
